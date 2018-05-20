@@ -1,6 +1,6 @@
 ## Weather App - Node course
 
-Remenber Execute ```npm install```
+Remember Execute ```npm install```
 
 ### Example: 
 
